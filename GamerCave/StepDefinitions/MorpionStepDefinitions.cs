@@ -8,7 +8,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace GamerCave.StepDefinitions
 {
     [Binding]
-    public class StepDefinitions
+    public class MorpionStepDefinitions
     {
         private Game game;
 
