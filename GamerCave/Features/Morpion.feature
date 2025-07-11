@@ -2,7 +2,7 @@
 
 A short summary of the feature
 
-﻿Feature: Tic Tac Toe
+﻿Feature: Morpion
 	As a tic tac toe player
     I want to see the results of the game
     So that I can know who won
