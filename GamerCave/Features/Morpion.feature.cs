@@ -101,35 +101,35 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
                             "1",
                             "2",
                             "3"});
-                table1.AddRow(new string[] {
+                table4.AddRow(new string[] {
                             "4",
                             "5",
                             "6"});
-                table1.AddRow(new string[] {
+                table4.AddRow(new string[] {
                             "7",
                             "8",
                             "9"});
 #line 11
- testRunner.Given("a new game that looks like", ((string)(null)), table1, "Given ");
+ testRunner.Given("a new game that looks like", ((string)(null)), table4, "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table2 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table5 = new TechTalk.SpecFlow.Table(new string[] {
                             "X",
                             "O"});
-                table2.AddRow(new string[] {
+                table5.AddRow(new string[] {
                             "1",
                             "7"});
-                table2.AddRow(new string[] {
+                table5.AddRow(new string[] {
                             "2",
                             "8"});
-                table2.AddRow(new string[] {
+                table5.AddRow(new string[] {
                             "3",
                             ""});
 #line 15
-    testRunner.When("we have the following sequence of moves", ((string)(null)), table2, "When ");
+    testRunner.When("we have the following sequence of moves", ((string)(null)), table5, "When ");
 #line hidden
 #line 20
     testRunner.Then("player X is declared the winner", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
@@ -165,35 +165,35 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-                TechTalk.SpecFlow.Table table3 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
                             "1",
                             "2",
                             "3"});
-                table3.AddRow(new string[] {
+                table6.AddRow(new string[] {
                             "4",
                             "5",
                             "6"});
-                table3.AddRow(new string[] {
+                table6.AddRow(new string[] {
                             "7",
                             "8",
                             "9"});
 #line 23
- testRunner.Given("a new game that looks like", ((string)(null)), table3, "Given ");
+ testRunner.Given("a new game that looks like", ((string)(null)), table6, "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table7 = new TechTalk.SpecFlow.Table(new string[] {
                             "X",
                             "O"});
-                table4.AddRow(new string[] {
+                table7.AddRow(new string[] {
                             "1",
                             "3"});
-                table4.AddRow(new string[] {
+                table7.AddRow(new string[] {
                             "2",
                             "6"});
-                table4.AddRow(new string[] {
+                table7.AddRow(new string[] {
                             "4",
                             "9"});
 #line 27
-    testRunner.When("we have the following sequence of moves", ((string)(null)), table4, "When ");
+    testRunner.When("we have the following sequence of moves", ((string)(null)), table7, "When ");
 #line hidden
 #line 32
     testRunner.Then("player O is declared the winner", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
@@ -229,35 +229,35 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-                TechTalk.SpecFlow.Table table5 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table8 = new TechTalk.SpecFlow.Table(new string[] {
                             "1",
                             "2",
                             "3"});
-                table5.AddRow(new string[] {
+                table8.AddRow(new string[] {
                             "4",
                             "5",
                             "6"});
-                table5.AddRow(new string[] {
+                table8.AddRow(new string[] {
                             "7",
                             "8",
                             "9"});
 #line 35
- testRunner.Given("a new game that looks like", ((string)(null)), table5, "Given ");
+ testRunner.Given("a new game that looks like", ((string)(null)), table8, "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table9 = new TechTalk.SpecFlow.Table(new string[] {
                             "X",
                             "O"});
-                table6.AddRow(new string[] {
+                table9.AddRow(new string[] {
                             "1",
                             "3"});
-                table6.AddRow(new string[] {
+                table9.AddRow(new string[] {
                             "5",
                             "6"});
-                table6.AddRow(new string[] {
+                table9.AddRow(new string[] {
                             "9",
                             ""});
 #line 39
-    testRunner.When("we have the following sequence of moves", ((string)(null)), table6, "When ");
+    testRunner.When("we have the following sequence of moves", ((string)(null)), table9, "When ");
 #line hidden
 #line 44
     testRunner.Then("player X is declared the winner", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
@@ -293,41 +293,41 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-                TechTalk.SpecFlow.Table table7 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table10 = new TechTalk.SpecFlow.Table(new string[] {
                             "1",
                             "2",
                             "3"});
-                table7.AddRow(new string[] {
+                table10.AddRow(new string[] {
                             "4",
                             "5",
                             "6"});
-                table7.AddRow(new string[] {
+                table10.AddRow(new string[] {
                             "7",
                             "8",
                             "9"});
 #line 47
-    testRunner.Given("a new game that looks like", ((string)(null)), table7, "Given ");
+    testRunner.Given("a new game that looks like", ((string)(null)), table10, "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table8 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table11 = new TechTalk.SpecFlow.Table(new string[] {
                             "X",
                             "O"});
-                table8.AddRow(new string[] {
+                table11.AddRow(new string[] {
                             "1",
                             "2"});
-                table8.AddRow(new string[] {
+                table11.AddRow(new string[] {
                             "3",
                             "4"});
-                table8.AddRow(new string[] {
+                table11.AddRow(new string[] {
                             "5",
                             "7"});
-                table8.AddRow(new string[] {
+                table11.AddRow(new string[] {
                             "6",
                             "9"});
-                table8.AddRow(new string[] {
+                table11.AddRow(new string[] {
                             "8",
                             ""});
 #line 51
-    testRunner.When("we have the following sequence of moves", ((string)(null)), table8, "When ");
+    testRunner.When("we have the following sequence of moves", ((string)(null)), table11, "When ");
 #line hidden
 #line 58
     testRunner.Then("a draw is declared", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");

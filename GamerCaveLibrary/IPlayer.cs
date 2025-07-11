@@ -1,7 +1,6 @@
-﻿namespace GamerCaveLibrary
+﻿namespace GamerCaveLibrary;
+
+public interface IPlayer
 {
-    public interface IPlayer
-    {
-        string GetNextMove();
-    }
+    string GetNextMove();
 }
